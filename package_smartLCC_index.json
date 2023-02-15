@@ -1,8 +1,8 @@
 {
   "packages": [
     {
-      "name": "esp32",
-      "maintainer": "SmartLCC",
+      "name": "SmartLCC",
+      "maintainer": "Pat Fleming",
       "websiteURL": "https://github.com/patfleming/SmartLCC",
       "email": "patfleminghtc@gmail.com",
       "help": {
@@ -12,14 +12,14 @@
         {
           "name": "SmartLCC-ESP32 Node",
           "architecture": "esp32",
-          "version": "",
-          "category": "ESP32",
+          "version": "1.0.0",
+          "category": "Contributed",
           "url": "https://github.com/patfleming/SmartLCC/blob/4a05c9022138ea83e3bf88da80212798cb9cfae3/SmartLCC-ESP32-1.0.0.zip",
           "archiveFileName": "SmartLCC-ESP32-1.0.0.zip",
           "checksum": "",
           "size": "",
           "help": {
-            "online": ""
+            "online": "https://github.com/patfleming/SmartLCC"
           },
           "boards": [
             {
