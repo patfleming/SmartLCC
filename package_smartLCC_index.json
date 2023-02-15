@@ -3,16 +3,16 @@
       {
         "maintainer": "SmartLCC", 
         "help": {
-          "online": ""
+          "online": "https://github.com/patfleming/SmartLCC"
         }, 
-        "websiteURL": "", 
+        "websiteURL": "https://github.com/patfleming/SmartLCC", 
         "platforms": [
           {
             "category": "ESP32", 
             "help": {
               "online": ""
             }, 
-            "url": "file:///C:/Users/patfl/Documents/Arduino/1.Cards/Node/SmartLCC-ESP32-1.0.0.zip",
+            "url": "https://github.com/patfleming/SmartLCC/SmartLCC-ESP32-1.0.0.zip",
             "checksum": "",
             "version": "1.0.0", 
             "architecture": "esp32", 
